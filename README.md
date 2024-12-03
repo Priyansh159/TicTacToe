@@ -11,7 +11,7 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. 
 	•	🚀 Responsive UI: The game layout adapts seamlessly to different screen sizes.
 
  <h2>Demo</h2> <br>
- Try here : [link](https://priyansh159.github.io/TicTacToe/) <br>
+ Try here : (https://priyansh159.github.io/TicTacToe/) <br>
  Enjoy the classic game of Tic Tac Toe in your browser!
 
  <h2>Tech Stack</h2>
